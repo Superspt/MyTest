@@ -1,0 +1,13 @@
+
+		Google, Amazon win Israel's cloud services tender
+	JERUSALEM, April 21 (Xinhua) -- U.S. technology giants Google and Amazon won a tender to provide cloud services to the Israeli government, the state's Finance Ministry said on Wednesday.
+	The winning of the two companies will be officially announced after they complete the tender requirements, mainly fee payments.
+	Defeated bidders include Microsoft, Oracle and IBM.
+	The services provided by Amazon Web Services (AWS) and Google Cloud include the setup of local cloud sites in Israel with an initial cost estimated at 4 billion shekels (about 1.23 billion U.S. dollars).
+	The tender is part of Israel's Nimbus flagship project, aimed to provide a comprehensive in-depth solution for the provision of cloud services to the government ministries and authorities, the Israeli army, and other bodies.
+	The project is led by the Ministry of Finance, along with the Ministry of Digital Affairs, the Israel National Cyber Directorate, the Ministry of Defense, and the Israel Defense Forces.
+	It consists of four parts, which are the purchasing and building cloud infrastructure, formulating a policy for cloud migration, integrating and migrating to the cloud, and implementing of control and optimization of cloud activity.
+	The cloud services will be provided from local cloud sites, where the data will be processed and stored within the borders of Israel under strict data security guidelines.
+	For the purpose of advising and accompanying the setup of the cloud sites, a cloud center of excellence will also be established.
+	
+	

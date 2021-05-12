@@ -1,0 +1,9 @@
+
+		The Chinese story of the Titanic
+	<p style="text-align: center;">
+	<script src="http://tv.people.com.cn/img/player/v.js"></script><script>showPlayer({id:"/pvservice/xml/2021/5/7/8cc589f9-b1d4-45fb-b0dd-7b5d6a39725e.xml",width:830,height:550});</script>
+	Discrimination, especially in the U.S. lately with anti-Asian hate, is not a new problem but old problem, which has been there for over 100 years, says Steven Schwankert, lead researcher of The Six, a documentary uncovering the untold story of the six Chinese survivors of Titanic.
+<p style="text-align: center;">
+	<img alt="" src="/NMediaFile/2021/0507/FOREIGN202105071009000455473913890.jpg" style="width: 830px; height: 463px;" />
+	
+	

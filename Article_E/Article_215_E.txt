@@ -1,0 +1,9 @@
+
+		A ticket to the future
+	<p style="text-align: center;">
+	<script src="http://tv.people.com.cn/img/player/v.js"></script><script>showPlayer({id:"/pvservice/xml/2021/5/7/2b711d12-ba6f-46c8-9a48-aa6f375802fe.xml",width:830,height:550});</script>
+	The first China International Consumer Products Expo will kick off on May 7 in Haikou, capital of south China's Hainan Province. What do you know about China's consumption habits, patterns? Check out these facts and figures and do some window shopping... of the future!
+<p style="text-align: center;">
+	<img alt="" src="/NMediaFile/2021/0507/FOREIGN202105070906000424405683992.jpg" style="width: 830px; height: 405px;" />
+	
+	
